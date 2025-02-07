@@ -1,0 +1,4 @@
+﻿  MS_DOS.cpp
+F:\3RD - S E M E S T E R\DSA\PROJECTS\MS_DOS\MS_DOS\MS_DOS.cpp(28,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\3RD - S E M E S T E R\DSA\PROJECTS\MS_DOS\MS_DOS\MS_DOS.cpp(1266): warning C4715: 'DOS::editFile': not all control paths return a value
+  MS_DOS.vcxproj -> F:\3RD - S E M E S T E R\DSA\PROJECTS\MS_DOS\x64\Debug\MS_DOS.exe
